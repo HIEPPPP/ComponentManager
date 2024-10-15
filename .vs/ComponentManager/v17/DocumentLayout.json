@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "G:\\IT-03-Code\\ComponentManager - Copy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\models\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\models\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\gui\\frmcomponentin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\gui\\frmcomponentin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,11 +35,7 @@
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\gui\\frmcomponentout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\models\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\models\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\migrations\\202410151150252_add noti tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\migrations\\202410151150252_add noti tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\migrations\\202410151150252_add noti tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,23 +51,19 @@
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\gui\\frmcomponentin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\services\\notiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\services\\notiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\services\\notiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\gui\\frmcomponentin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\gui\\frmcomponentin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\repository\\implementation\\notirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\repository\\implementation\\notirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\repository\\implementation\\notirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\repository\\interface\\inotirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\repository\\interface\\inotirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\repository\\interface\\inotirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\migrations\\202410151117308_add noti table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\migrations\\202410151117308_add noti table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\migrations\\202410151117308_add noti table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -75,7 +75,7 @@
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\data\\componentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|g:\\it-03-code\\componentmanager - copy\\componentmanager\\gui\\frmcomponentouthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|G:\\IT-03-Code\\ComponentManager - Copy\\componentmanager\\gui\\frmcomponentouthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D5DDF98-FA25-41FF-B6FE-4C104571C277}|ComponentManager\\ComponentManager.csproj|solutionrelative:componentmanager\\gui\\frmcomponentouthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -363,94 +363,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmComponentAdd.cs [Design]",
-              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs",
-              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentAdd.cs",
-              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs [Design]",
-              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentAdd.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:28:02.108Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmComponentAdd.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs",
-              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentAdd.cs",
-              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs",
-              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentAdd.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:31:03.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmMain.cs",
               "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmMain.cs",
               "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmMain.cs [Design]",
               "RelativeToolTip": "ComponentManager\\GUI\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:29:57.783Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-21T08:29:57.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmMain.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmMain.cs",
               "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmMain.cs",
               "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmMain.cs",
               "RelativeToolTip": "ComponentManager\\GUI\\frmMain.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAswGEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwGEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T07:56:49.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T07:56:49.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmComponentOut.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs",
-              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentOut.cs",
-              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs",
-              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentOut.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAUwI0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:47:01.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmComponentOut.cs [Design]",
-              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs",
-              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentOut.cs",
-              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs [Design]",
-              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentOut.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:29:53.755Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Noti.cs",
-              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Models\\Noti.cs",
-              "RelativeDocumentMoniker": "ComponentManager\\Models\\Noti.cs",
-              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Models\\Noti.cs",
-              "RelativeToolTip": "ComponentManager\\Models\\Noti.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:14:46.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "frmComponentIn.cs [Design]",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentIn.cs",
               "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentIn.cs",
@@ -462,7 +397,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Noti.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Models\\Noti.cs",
+              "RelativeDocumentMoniker": "ComponentManager\\Models\\Noti.cs",
+              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Models\\Noti.cs",
+              "RelativeToolTip": "ComponentManager\\Models\\Noti.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:14:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmComponentAdd.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs",
+              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentAdd.cs",
+              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs",
+              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentAdd.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:31:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmComponentAdd.cs [Design]",
+              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs",
+              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentAdd.cs",
+              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentAdd.cs [Design]",
+              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:28:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmComponentOut.cs",
+              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs",
+              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentOut.cs",
+              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs",
+              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentOut.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:47:01.385Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "frmComponentOut.cs [Design]",
+              "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs",
+              "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentOut.cs",
+              "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOut.cs [Design]",
+              "RelativeToolTip": "ComponentManager\\GUI\\frmComponentOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:29:53.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "202410151150252_Add noti tables.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Migrations\\202410151150252_Add noti tables.cs",
               "RelativeDocumentMoniker": "ComponentManager\\Migrations\\202410151150252_Add noti tables.cs",
@@ -470,12 +464,11 @@
               "RelativeToolTip": "ComponentManager\\Migrations\\202410151150252_Add noti tables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:50:30.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:50:30.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Program.cs",
               "RelativeDocumentMoniker": "ComponentManager\\Program.cs",
@@ -483,12 +476,11 @@
               "RelativeToolTip": "ComponentManager\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowCUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T06:47:10.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T06:47:10.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserLoginRepository.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Repository\\Implementation\\UserLoginRepository.cs",
               "RelativeDocumentMoniker": "ComponentManager\\Repository\\Implementation\\UserLoginRepository.cs",
@@ -496,12 +488,11 @@
               "RelativeToolTip": "ComponentManager\\Repository\\Implementation\\UserLoginRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:19:36.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T01:19:36.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "NotiServices.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\Services\\NotiServices.cs",
               "RelativeDocumentMoniker": "ComponentManager\\Services\\NotiServices.cs",
@@ -509,12 +500,11 @@
               "RelativeToolTip": "ComponentManager\\Services\\NotiServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:32:05.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:32:05.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "frmComponentIn.cs",
               "DocumentMoniker": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentIn.cs",
               "RelativeDocumentMoniker": "ComponentManager\\GUI\\frmComponentIn.cs",
@@ -522,8 +512,7 @@
               "RelativeToolTip": "ComponentManager\\GUI\\frmComponentIn.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAIwIQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:29:46.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T08:29:46.111Z"
             },
             {
               "$type": "Document",
@@ -535,8 +524,7 @@
               "RelativeToolTip": "ComponentManager\\Repository\\Implementation\\NotiRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:27:18.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:27:18.235Z"
             },
             {
               "$type": "Document",
@@ -548,8 +536,7 @@
               "RelativeToolTip": "ComponentManager\\Repository\\Interface\\INotiRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:25:42.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:25:42.607Z"
             },
             {
               "$type": "Document",
@@ -561,8 +548,7 @@
               "RelativeToolTip": "ComponentManager\\Migrations\\202410151117308_Add noti table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:17:36.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:17:36.447Z"
             },
             {
               "$type": "Document",
@@ -574,8 +560,7 @@
               "RelativeToolTip": "ComponentManager\\Data\\ComponentContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T07:47:26.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T07:47:26.218Z"
             },
             {
               "$type": "Document",
@@ -586,8 +571,7 @@
               "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmComponentOutHistory.cs [Design]",
               "RelativeToolTip": "ComponentManager\\GUI\\frmComponentOutHistory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:30:06.748Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-21T06:30:06.748Z"
             },
             {
               "$type": "Document",
@@ -599,8 +583,7 @@
               "RelativeToolTip": "ComponentManager\\GUI\\frmEmployeeUpdate.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwDsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:33:53.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T06:33:53.531Z"
             },
             {
               "$type": "Document",
@@ -644,8 +627,7 @@
               "ToolTip": "G:\\IT-03-Code\\ComponentManager - Copy\\ComponentManager\\GUI\\frmEmployeeUpdate.cs [Design]",
               "RelativeToolTip": "ComponentManager\\GUI\\frmEmployeeUpdate.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:56:03.465Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-14T04:56:03.465Z"
             },
             {
               "$type": "Document",
@@ -883,8 +865,7 @@
               "RelativeToolTip": "ComponentManager\\GUI\\frmMain.Designer.cs",
               "ViewState": "AgIAAOkBAAAAAAAAAAAUwOkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T04:18:26.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T04:18:26.65Z"
             },
             {
               "$type": "Document",
@@ -908,8 +889,7 @@
               "RelativeToolTip": "ComponentManager\\GUI\\frmComponentOut.Designer.cs",
               "ViewState": "AgIAAGMBAAAAAAAAAAAUwHMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T02:50:51.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T02:50:51.274Z"
             },
             {
               "$type": "Document",
@@ -1065,8 +1045,7 @@
               "RelativeToolTip": "ComponentManager\\GUI\\frmComponentIn.Designer.cs",
               "ViewState": "AgIAACcBAAAAAAAAAAAUwDoBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T07:19:47.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T07:19:47.151Z"
             },
             {
               "$type": "Document",
