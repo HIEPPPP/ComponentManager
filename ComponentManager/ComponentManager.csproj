@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D5DDF98-FA25-41FF-B6FE-4C104571C277}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ComponentManager</RootNamespace>
+    <AssemblyName>ComponentManager</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>5536077.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject>ComponentManager.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Dashboard.v23.2.Core, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Drawing.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v23.2.Core, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unity.Abstractions, Version=5.11.7.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.11.10\lib\net48\Unity.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Container, Version=5.11.11.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.11.10\lib\net48\Unity.Container.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants\Component_Constants.cs" />
+    <Compile Include="GUI\frmComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponent.Designer.cs">
+      <DependentUpon>frmComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmComponentAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponentAdd.Designer.cs">
+      <DependentUpon>frmComponentAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmComponentIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponentIn.Designer.cs">
+      <DependentUpon>frmComponentIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmComponentInHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponentInHistory.Designer.cs">
+      <DependentUpon>frmComponentInHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmComponentOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponentOut.Designer.cs">
+      <DependentUpon>frmComponentOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmComponentOutHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponentOutHistory.Designer.cs">
+      <DependentUpon>frmComponentOutHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmComponentUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmComponentUpdate.Designer.cs">
+      <DependentUpon>frmComponentUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmEmployeeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmEmployeeAdd.Designer.cs">
+      <DependentUpon>frmEmployeeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmEmployeeUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmEmployeeUpdate.Designer.cs">
+      <DependentUpon>frmEmployeeUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmChangePass.Designer.cs">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409160426424_Init.cs" />
+    <Compile Include="Migrations\202409160426424_Init.Designer.cs">
+      <DependentUpon>202409160426424_Init.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409170111390_update component.cs" />
+    <Compile Include="Migrations\202409170111390_update component.Designer.cs">
+      <DependentUpon>202409170111390_update component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409170743319_Add Table ComponentIn and ComponentOut.cs" />
+    <Compile Include="Migrations\202409170743319_Add Table ComponentIn and ComponentOut.Designer.cs">
+      <DependentUpon>202409170743319_Add Table ComponentIn and ComponentOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409170817479_Add-Model into ComponentOut In.cs" />
+    <Compile Include="Migrations\202409170817479_Add-Model into ComponentOut In.Designer.cs">
+      <DependentUpon>202409170817479_Add-Model into ComponentOut In.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409180625088_delete cloumn quantity in component.cs" />
+    <Compile Include="Migrations\202409180625088_delete cloumn quantity in component.Designer.cs">
+      <DependentUpon>202409180625088_delete cloumn quantity in component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409190145261_Add table UserLogin and UserRole.cs" />
+    <Compile Include="Migrations\202409190145261_Add table UserLogin and UserRole.Designer.cs">
+      <DependentUpon>202409190145261_Add table UserLogin and UserRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409190150436_Update UserLogin.cs" />
+    <Compile Include="Migrations\202409190150436_Update UserLogin.Designer.cs">
+      <DependentUpon>202409190150436_Update UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409190424315_Add proprerties amount in table component.cs" />
+    <Compile Include="Migrations\202409190424315_Add proprerties amount in table component.Designer.cs">
+      <DependentUpon>202409190424315_Add proprerties amount in table component.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409210632020_Add min in componrnt.cs" />
+    <Compile Include="Migrations\202409210632020_Add min in componrnt.Designer.cs">
+      <DependentUpon>202409210632020_Add min in componrnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409210808317_Update table componentIn and out.cs" />
+    <Compile Include="Migrations\202409210808317_Update table componentIn and out.Designer.cs">
+      <DependentUpon>202409210808317_Update table componentIn and out.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202409270834124_password string.cs" />
+    <Compile Include="Migrations\202409270834124_password string.Designer.cs">
+      <DependentUpon>202409270834124_password string.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202410090447109_add table employee.cs" />
+    <Compile Include="Migrations\202410090447109_add table employee.Designer.cs">
+      <DependentUpon>202410090447109_add table employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202410151117308_Add noti table.cs" />
+    <Compile Include="Migrations\202410151117308_Add noti table.Designer.cs">
+      <DependentUpon>202410151117308_Add noti table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202410151150252_Add noti tables.cs" />
+    <Compile Include="Migrations\202410151150252_Add noti tables.Designer.cs">
+      <DependentUpon>202410151150252_Add noti tables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\Noti.cs" />
+    <Compile Include="Models\UserLogin.cs" />
+    <Compile Include="Models\Category.cs" />
+    <Compile Include="Models\Component.cs" />
+    <Compile Include="Data\ComponentContext.cs" />
+    <Compile Include="Models\ComponentIn.cs" />
+    <Compile Include="Models\ComponentOut.cs" />
+    <Compile Include="Models\DTO\ComponentDTO.cs" />
+    <Compile Include="Models\DTO\ComponentInDTO.cs" />
+    <Compile Include="Models\DTO\ComponentOutDTO.cs" />
+    <Compile Include="Models\ImportanceLevels.cs" />
+    <Compile Include="Models\Provider.cs" />
+    <Compile Include="Models\UserRole.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\Implementation\CategoryRepository.cs" />
+    <Compile Include="Repository\Implementation\ComponentInHisRepository.cs" />
+    <Compile Include="Repository\Implementation\ComponentInRepository.cs" />
+    <Compile Include="Repository\Implementation\ComponentOutHisRepository.cs" />
+    <Compile Include="Repository\Implementation\ComponentOutRepository.cs" />
+    <Compile Include="Repository\Implementation\ComponentRepository.cs" />
+    <Compile Include="Repository\Implementation\EmployeeRepository.cs" />
+    <Compile Include="Repository\Implementation\NotiRepository.cs" />
+    <Compile Include="Repository\Implementation\UserRoleRepository.cs" />
+    <Compile Include="Repository\Interface\IEmployeeRepository.cs" />
+    <Compile Include="Repository\Interface\INotiRepository.cs" />
+    <Compile Include="Repository\Interface\IUserRoleRepository.cs" />
+    <Compile Include="Repository\Implementation\LevelRepository.cs" />
+    <Compile Include="Repository\Implementation\UserLoginRepository.cs" />
+    <Compile Include="Repository\Interface\ICategoryRepository.cs" />
+    <Compile Include="Repository\Interface\IComponentInRepository.cs" />
+    <Compile Include="Repository\Interface\IComponentOutHisRepository.cs" />
+    <Compile Include="Repository\Interface\IComponentOutRepository.cs" />
+    <Compile Include="Repository\Interface\IComponentRepository.cs" />
+    <Compile Include="Repository\Interface\IComponentInHisRepository.cs" />
+    <Compile Include="Repository\Interface\ILevelRepository.cs" />
+    <Compile Include="Repository\Interface\IUserLoginRepository.cs" />
+    <Compile Include="Services\CategoryServices.cs" />
+    <Compile Include="Services\ComponentInHisServices.cs" />
+    <Compile Include="Services\ComponentInServices.cs" />
+    <Compile Include="Services\ComponentOutServices.cs" />
+    <Compile Include="Services\ComponentServices.cs" />
+    <Compile Include="Services\EmployeeServices.cs" />
+    <Compile Include="Services\LevelServices.cs" />
+    <Compile Include="Services\NotiServices.cs" />
+    <Compile Include="Services\UserLoginServices.cs" />
+    <Compile Include="Services\UserRoleServices.cs" />
+    <EmbeddedResource Include="GUI\frmComponent.resx">
+      <DependentUpon>frmComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmComponentAdd.resx">
+      <DependentUpon>frmComponentAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmComponentIn.resx">
+      <DependentUpon>frmComponentIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmComponentInHistory.resx">
+      <DependentUpon>frmComponentInHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmComponentOut.resx">
+      <DependentUpon>frmComponentOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmComponentOutHistory.resx">
+      <DependentUpon>frmComponentOutHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmComponentUpdate.resx">
+      <DependentUpon>frmComponentUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmEmployeeAdd.resx">
+      <DependentUpon>frmEmployeeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmEmployeeUpdate.resx">
+      <DependentUpon>frmEmployeeUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmChangePass.resx">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409160426424_Init.resx">
+      <DependentUpon>202409160426424_Init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409170111390_update component.resx">
+      <DependentUpon>202409170111390_update component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409170743319_Add Table ComponentIn and ComponentOut.resx">
+      <DependentUpon>202409170743319_Add Table ComponentIn and ComponentOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409170817479_Add-Model into ComponentOut In.resx">
+      <DependentUpon>202409170817479_Add-Model into ComponentOut In.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409180625088_delete cloumn quantity in component.resx">
+      <DependentUpon>202409180625088_delete cloumn quantity in component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409190145261_Add table UserLogin and UserRole.resx">
+      <DependentUpon>202409190145261_Add table UserLogin and UserRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409190150436_Update UserLogin.resx">
+      <DependentUpon>202409190150436_Update UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409190424315_Add proprerties amount in table component.resx">
+      <DependentUpon>202409190424315_Add proprerties amount in table component.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409210632020_Add min in componrnt.resx">
+      <DependentUpon>202409210632020_Add min in componrnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409210808317_Update table componentIn and out.resx">
+      <DependentUpon>202409210808317_Update table componentIn and out.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202409270834124_password string.resx">
+      <DependentUpon>202409270834124_password string.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410090447109_add table employee.resx">
+      <DependentUpon>202410090447109_add table employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410151117308_Add noti table.resx">
+      <DependentUpon>202410151117308_Add noti table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410151150252_Add noti tables.resx">
+      <DependentUpon>202410151150252_Add noti tables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5536077.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="5536077.ico" />
+    <None Include="Resources\hide_16x162.png" />
+    <None Include="Resources\show_16x162.png" />
+    <None Include="Resources\show_16x161.png" />
+    <None Include="Resources\hide_16x161.png" />
+    <None Include="Resources\hide_16x16.png" />
+    <None Include="Resources\show_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,207 @@
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\ComponentManager.exe.config
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\ComponentManager.exe
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\ComponentManager.pdb
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Data.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Drawing.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Utils.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraBars.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\EntityFramework.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\EntityFramework.SqlServer.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\Unity.Abstractions.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\Unity.Container.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Office.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Data.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Drawing.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Utils.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraBars.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\EntityFramework.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\EntityFramework.SqlServer.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\Unity.Abstractions.pdb
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\Unity.Container.pdb
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Office.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.csproj.AssemblyReference.cache
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponent.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentAdd.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentIn.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentInHistory.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentOut.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentOutHistory.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentUpdate.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmLogin.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmMain.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmChangePass.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.Init.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.updatecomponent.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.AddTableComponentInandComponentOut.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.AddModelintoComponentOutIn.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.deletecloumnquantityincomponent.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.AddtableUserLoginandUserRole.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.UpdateUserLogin.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.Addproprertiesamountintablecomponent.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.Addminincomponrnt.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.UpdatetablecomponentInandout.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.passwordstring.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Properties.Resources.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.csproj.GenerateResource.cache
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.exe.licenses
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.csproj.CoreCompileInputs.cache
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\Componen.845EFBF7.Up2Date
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.exe
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.pdb
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.DataAccess.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraReports.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Map.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Xpo.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.CodeParser.v23.2.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.DataAccess.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraReports.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Map.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Xpo.v23.2.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmTest.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.Migrations.addtableemployee.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmEmployee.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmEmployeeAdd.resources
+G:\IT-03-Code\ComponentManager\ComponentManager\obj\Debug\ComponentManager.GUI.frmEmployeeUpdate.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\ComponentManager.exe.config
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\ComponentManager.exe
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\ComponentManager.pdb
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Dashboard.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Data.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.DataAccess.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Drawing.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Utils.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraBars.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\EntityFramework.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\EntityFramework.SqlServer.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\Unity.Abstractions.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\Unity.Container.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraReports.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Map.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraTreeMap.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Xpo.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.TreeMap.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Office.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.CodeParser.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Dashboard.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Data.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.DataAccess.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Drawing.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Utils.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraBars.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\EntityFramework.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\EntityFramework.SqlServer.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\Unity.Abstractions.pdb
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\Unity.Container.pdb
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraReports.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Map.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraTreeMap.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Xpo.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.TreeMap.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Office.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.csproj.AssemblyReference.cache
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponent.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentAdd.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentIn.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentInHistory.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentOut.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentOutHistory.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmComponentUpdate.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmEmployeeAdd.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmEmployeeUpdate.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmLogin.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmMain.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmChangePass.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.GUI.frmEmployee.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.Init.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.updatecomponent.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.AddTableComponentInandComponentOut.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.AddModelintoComponentOutIn.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.deletecloumnquantityincomponent.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.AddtableUserLoginandUserRole.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.UpdateUserLogin.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.Addproprertiesamountintablecomponent.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.Addminincomponrnt.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.UpdatetablecomponentInandout.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.passwordstring.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.addtableemployee.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Properties.Resources.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.csproj.GenerateResource.cache
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.exe.licenses
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.csproj.CoreCompileInputs.cache
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\Componen.845EFBF7.Up2Date
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.exe
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.pdb
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.Addnotitable.resources
+G:\IT-03-Code\ComponentManager - Copy\ComponentManager\obj\Debug\ComponentManager.Migrations.Addnotitables.resources
